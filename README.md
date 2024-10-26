@@ -7,7 +7,8 @@
                             +Squares are points and circle are interpolated point+
 ## Overview
 
-**interpolation mode**:Interpolation is a mathematical technique used to estimate unknown values within the range of a discrete set of known data points.In this mode, interpolation is done between both points. For simplicity, in this code, the points of a sinusoidal motion are interpolated.but you can change the code(while part) as you want🏋️. 
+**interpolation mode**  Interpolation is a mathematical technique used to estimate unknown values within the range of a discrete set of known data points.In this mode, interpolation is done between both points. For simplicity, in this code, the points of a sinusoidal motion are interpolated.but you can change the code(while part) as you want🏋️. 
+
 ---
 
 ## Features
